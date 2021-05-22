@@ -101,9 +101,9 @@ vuln = "\033[32mVuln"
  
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mRana Nadeem Rajput\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 08×××××××\x1b[1;96m  
+print  """\x1b[0;31m [¤] \x1b[0;31mRana Nadeem Rajput\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 03082503426\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY MR\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : MR HARI\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY Rajput\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : Mr Nadeem\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
  
 CorrectUsername = "Rana"
